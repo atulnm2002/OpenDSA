@@ -94,7 +94,7 @@ grid positions--i.e., we always start counting from zero at the origin (top
 left), rather than starting with one.
 
 
-.. avembed:: Exercises/IntroToSoftwareDesign/Week1Quiz1.html ka
+.. avembed:: Exercises/IntroToSoftwareDesign/Week1Quiz1Summ.html ka
 
 
 A Bit More LightBot
@@ -191,7 +191,7 @@ One solution to this level is:
 
 Self-Check
 ~~~~~~~~~~
-.. avembed:: Exercises/IntroToSoftwareDesign/Week1Quiz2.html ka
+.. avembed:: Exercises/IntroToSoftwareDesign/Week1Quiz2Summ.html ka
     :long_name: Turning MicroWorlds into Code
 
 
@@ -220,7 +220,7 @@ The LightBot game illustrates several basic programming concepts:
 
 In this course, we are going to focus on
 learning **object-oriented programming** in Java. This section describes
-several general concepts about object-oriented programs that we have seen 
+several general concepts about object-oriented programs that we have seen
 in this first example. As you read subsequent chapters, refer back to this
 chapter to review the meaning of important words and phrases.
 
@@ -233,7 +233,7 @@ to music, writing an essay, or playing a game, whenever we
 a computer we are using one or more computer programs.  Each
 is simply a set of instructions for the computer.
 
-.. note:: 
+.. note::
     A computer **program** is a set of instructions for a computer.
 
 Every program is written by one or more programmers.  Programmers
@@ -839,6 +839,10 @@ help you keep this indentation habit as you write code, but it won't
 force you.  Ultimately, you are responsible for making your code
 look clean, neat, and readable.
 
+.. avembed:: Exercises/IntroToSoftwareDesign/Week1ReadingQuizSumm.html ka
+    :long_name: Programming Concepts
+
+
 
 Programming Practice 1
 ----------------------
@@ -854,4 +858,4 @@ Check Your Understanding
 ------------------------
 
 .. avembed:: Exercises/IntroToSoftwareDesign/Week1ReadingQuizSumm.html ka
-    :long_name: Programming Concepts
+    :long_name: Reading Quiz
