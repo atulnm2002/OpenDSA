@@ -429,5 +429,5 @@ Programming Practice 3
 Check Your Understanding
 ------------------------
 
-.. avembed:: Exercises/IntroToSoftwareDesign/Week3ReadingQuizSumm.html ka
+.. avembed:: Exercises/IntroToSoftwareDesign/Week3ReadingQuizQ1.html ka
    :long_name: Programming Concepts
