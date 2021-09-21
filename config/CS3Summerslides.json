@@ -1,6 +1,6 @@
 {
-  "title": "Data Structures and Algorithms Coursenotes",
-  "desc": "Data Structures and Algorithms Coursenotes for Summer terms",
+  "title": "CS5040 Course Notes",
+  "desc": "CS5040 Course Notes",
   "build_dir": "Books",
   "code_dir": "SourceCode/",
   "lang": "en",
@@ -30,39 +30,38 @@
   },
   "tabbed_codeinc": false,
   "build_JSAV": false,
-  "suppress_todo": false,
+  "suppress_todo": true,
   "glob_exer_options": {},
   "glob_ss_options": {
-    "threshold": 1.0, 
-    "points": 0.0, 
+    "threshold": 1.0,
+    "points": 0.0,
     "required": false
-  }, 
+  },
   "glob_ff_options": {
-    "threshold": 1.0, 
-    "points": 0.0, 
+    "threshold": 1.0,
+    "points": 0.0,
     "required": false
   },
   "glob_ka_options": {
-    "threshold": 5, 
-    "points": 1.0, 
+    "threshold": 5,
+    "points": 1.0,
     "required": true
-  }, 
+  },
   "glob_extr_options": {
     "code-workout": {
       "points": 2.0
-    }, 
+    },
     "points": 1.0
-  }, 
+  },
   "glob_pe_options": {
-    "threshold": 0.9, 
-    "points": 2.0, 
+    "threshold": 0.9,
+    "points": 2.0,
     "required": true
-  }, 
+  },
   "chapters": {
     "Week 1": {
       "CourseSpecific/CS3114SumI2021Intro": {},
       "CS3slides/Intro": {},
-      "CourseSpecific/CS3114SumIIP1": {},
       "CS5040slides/ProjManage": {},
       "CS5040slides/Testing": {},
       "CS3slides/AlgAnal": {},
@@ -70,7 +69,7 @@
       "CS5040slides/Pointers": {}
     },
     "Week 2": {
-      "CS5040slides/StackQueue": {},
+     "CS5040slides/StackQueue": {},
       "CS3slides/Binary": {},
       "CS5040slides/Recursion": {},
       "CS3slides/Binary2": {},
@@ -83,8 +82,7 @@
       "CS3slides/Sorting1": {},
       "CS3slides/Sorting2": {},
       "CS5040slides/Sorting3": {},
-      "CS3slides/FileProc": {},
-
+      "CS5040slides/FileProc": {}
     },
     "Week 4": {
       "CS5040slides/Buffering": {},
