@@ -71,16 +71,23 @@
         }
       },
       "Design/ADT": {
+        "CMdatatypeSumm": {
+          "threshold": 5
+        },
         "IntroADTSumm": {
           "threshold": 4
         }
       }
     },
     "Object Oriented Programming": {
-      "Design/IntroOO": {}, 
+      "Design/IntroOO": {
+        "CMoopSumm": {
+          "threshold": 5
+        }
+      },
       "Design/IntroUML": {}, 
       "Design/IntroProcess": {}
-    }, 
+    },
     "List Interface & Array based Lists": {
       "List/ListADT": {
         "List ADT Programming Exercise": {
@@ -164,7 +171,8 @@
     },
     "Introduction to Pointers in Java": {
       "PointersJava/PointerIntro": {},
-      "PointersJava/BasicPointers": {
+      "PointersJava/BasicPointers1": {},
+      "PointersJava/BasicPointers2": {
         "PointerEX1PRO": {
           "threshold": 1
         }, 
@@ -175,12 +183,19 @@
       "PointersJava/Syntax": {},
       "PointersJava/LocalMem": {}, 
       "PointersJava/HeapMem": {}, 
-      "PointersJava/Links": {
+      "PointersJava/Links1": {
         "PointerEX3PRO": {
           "threshold": 1
         }
       },
-      "PointersJava/Exercises": {}
+      "PointersJava/Links2": {},
+      "PointersJava/PointersCM": {
+        "CMpointersSumm": {
+          "threshold": 5
+        }
+      },
+      "PointersJava/Exercises": {},
+      "PointersJava/LinkedChains": {}
     }, 
     "Linked Lists": {
       "List/ListLinked": {
@@ -239,6 +254,84 @@
     "Queues": {
       "List/Queue": {}, 
       "List/QueueLinked": {}
+    },
+    "Recursion": {
+      "RecurTutor/RecIntro": {},
+      "RecurTutor/Write": {},
+      "RecurTutor/CodeCompletionEx": {
+        "Recursion Programming Exercise: Largest": {
+          "points": 1.0
+        }, 
+        "Recursion Programming Exercise: Multiply": {
+          "points": 1.0
+        }, 
+        "Recursion Programming Exercise: GCD": {
+          "points": 1.0
+        }, 
+        "Recursion Programming Exercise: log": {
+          "points": 1.0
+        }, 
+        "Recursion Programming Exercise: Cummulative Sum": {
+          "points": 1.0
+        }, 
+        "Recursion Programming Exercise: Add odd values": {
+          "points": 1.0
+        }, 
+        "Recursion Programming Exercise: Sum Of the Digits": {
+          "points": 1.0
+        }, 
+        "Recursion Programming Exercise: Count Characters": {
+          "points": 1.0
+        }
+      }, 
+      "RecurTutor/HarderWrite": {},
+      "RecurTutor/HarderCodeCompletionEx": {
+        "Recursion Programming Exercise: Minimum of array": {
+          "points": 1.0
+        }, 
+        "Recursion Programming Exercise: Is Reverse": {
+          "points": 1.0
+        }, 
+        "Recursion Programming Exercise: Decimal to Binary": {
+          "points": 1.0
+        }
+      }, 
+      "RecurTutor/WritingEx": {
+        "Recursion Programming Exercise: Cannonballs": {
+          "points": 1.0
+        }, 
+        "Recursion Programming Exercise: Check Palindrome": {
+          "points": 1.0
+        }, 
+        "Recursion Programming Exercise: Subset Sum": {
+          "points": 1.0
+        }, 
+        "Recursion Programming Exercise: Pascal Triangle": {
+          "points": 1.0
+        }
+      }, 
+      "RecurTutor/Trace": {},
+      "RecurTutor/TracingEx": {
+        "RecTraceSummFwdFlow": {
+          "threshold": 1.0
+        }, 
+        "RecTraceSummbckwrdFlow": {
+          "threshold": 1.0
+        }, 
+        "RecTraceSummFuncErr": {
+          "threshold": 1.0
+        }, 
+        "RecTraceSummTwoRC": {
+          "threshold": 1.0
+        }, 
+        "RecTraceSummHowmany": {
+          "threshold": 1.0
+        }, 
+        "RecTraceSummHard": {
+          "threshold": 1.0
+        }
+      }, 
+      "RecurTutor/RecSummaryEx": {}
     },
     "Binary Trees": {
       "Binary/BinaryTreeIntro": {}, 
@@ -324,84 +417,6 @@
           "points": 2.0
         }
       }
-    },
-    "Recursion": {
-      "RecurTutor/RecIntro": {},
-      "RecurTutor/Write": {},
-      "RecurTutor/CodeCompletionEx": {
-        "Recursion Programming Exercise: Largest": {
-          "points": 1.0
-        }, 
-        "Recursion Programming Exercise: Multiply": {
-          "points": 1.0
-        }, 
-        "Recursion Programming Exercise: GCD": {
-          "points": 1.0
-        }, 
-        "Recursion Programming Exercise: log": {
-          "points": 1.0
-        }, 
-        "Recursion Programming Exercise: Cummulative Sum": {
-          "points": 1.0
-        }, 
-        "Recursion Programming Exercise: Add odd positions": {
-          "points": 1.0
-        }, 
-        "Recursion Programming Exercise: Sum Of the Digits": {
-          "points": 1.0
-        }, 
-        "Recursion Programming Exercise: Count Characters": {
-          "points": 1.0
-        }
-      }, 
-      "RecurTutor/HarderWrite": {},
-      "RecurTutor/HarderCodeCompletionEx": {
-        "Recursion Programming Exercise: Minimum of array": {
-          "points": 1.0
-        }, 
-        "Recursion Programming Exercise: Is Reverse": {
-          "points": 1.0
-        }, 
-        "Recursion Programming Exercise: Decimal to Binary": {
-          "points": 1.0
-        }
-      }, 
-      "RecurTutor/WritingEx": {
-        "Recursion Programming Exercise: Cannonballs": {
-          "points": 1.0
-        }, 
-        "Recursion Programming Exercise: Check Palindrome": {
-          "points": 1.0
-        }, 
-        "Recursion Programming Exercise: Subset Sum": {
-          "points": 1.0
-        }, 
-        "Recursion Programming Exercise: Pascal Triangle": {
-          "points": 1.0
-        }
-      }, 
-      "RecurTutor/Trace": {},
-      "RecurTutor/TracingEx": {
-        "RecTraceSummFwdFlow": {
-          "threshold": 1.0
-        }, 
-        "RecTraceSummbckwrdFlow": {
-          "threshold": 1.0
-        }, 
-        "RecTraceSummFuncErr": {
-          "threshold": 1.0
-        }, 
-        "RecTraceSummTwoRC": {
-          "threshold": 1.0
-        }, 
-        "RecTraceSummHowmany": {
-          "threshold": 1.0
-        }, 
-        "RecTraceSummHard": {
-          "threshold": 1.0
-        }
-      }, 
-      "RecurTutor/RecSummaryEx": {}
     },
     "Sorting": {
       "Sorting/InSort": {}, 
