@@ -9,15 +9,7 @@
 .. slideconf::
    :autoslides: False
 
-=====
-Lists
-=====
-
-Lists
------
-
-
-.. slide:: Insertion
+.. slide:: Linked List Insert Node
 
    .. inlineav:: llistInsertCON ss
       :long_name: Linked List Insert Slideshow

@@ -9,7 +9,7 @@
 .. slideconf::
    :autoslides: False
 
-.. slide:: .
+.. slide:: Linked List Position
 
    .. inlineav:: llistBadDelCON ss
       :long_name: Linked List Slideshow 2

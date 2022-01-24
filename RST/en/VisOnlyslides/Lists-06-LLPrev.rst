@@ -9,16 +9,7 @@
 .. slideconf::
    :autoslides: False
 
-=====
-Lists
-=====
-
-Lists
------
-
-
-
-.. slide:: Prev
+.. slide:: Linked List Move Previous
 
    .. inlineav:: llistOtherCON ss
       :long_name: Linked List Position Slideshow

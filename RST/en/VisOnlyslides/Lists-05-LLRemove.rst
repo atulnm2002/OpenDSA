@@ -9,17 +9,7 @@
 .. slideconf::
    :autoslides: False
 
-=====
-Lists
-=====
-
-Lists
------
-
-
-
-
-.. slide:: Removal
+.. slide:: Linked List Remove Node
 
    .. inlineav:: llistRemoveCON ss
       :long_name: Linked List Remove Slideshow

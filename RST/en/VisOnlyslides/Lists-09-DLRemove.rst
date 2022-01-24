@@ -9,7 +9,7 @@
 .. slideconf::
    :autoslides: False
 
-.. slide::
+.. slide:: Doubly Linked List Remove
 
    .. inlineav:: dlistRemoveCON ss
       :long_name: Doubly Linked List Remove

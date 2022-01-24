@@ -30,9 +30,9 @@ Pointer Manipulation
 
    * Just a bunch of bytes, that might get clumped as "words"
   
-     .. inlineav:: num42CON dgm
-        :links: AV/Pointers/num42CON.css
-        :scripts: AV/Pointers/num42CON.js
+     .. inlineav:: memoryModelCON dgm
+        :links: AV/Pointers/memoryModelCON.css
+        :scripts: AV/Pointers/memoryModelCON.js
         :align: center
 
 
