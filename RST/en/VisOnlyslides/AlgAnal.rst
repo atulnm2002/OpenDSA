@@ -9,7 +9,7 @@
 .. slideconf::
    :autoslides: False
 
-.. slide:: .
+.. slide:: Problems/Algorithms/Programs
 
    .. inlineav:: ProblemAlgorithmCON ss
       :links: AV/AlgAnal/ProblemAlgorithmCON.css
