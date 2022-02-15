@@ -79,38 +79,35 @@
       "VisOnlyslides/StackQueue-Imp-01": {},
       "VisOnlyslides/StackQueue-Imp-02": {},
       "VisOnlyslides/StackQueue-Imp-03": {},
+      "VisOnlyslides/StackQueue-Imp-04": {},
+      "VisOnlyslides/StackQueue-Imp-05": {},
       "VisOnlyslides/StackQueue-Circ-01": {},
       "VisOnlyslides/StackQueue-Circ-02": {}
     },
-    "Week 3, Day 1": {
-      "VisOnlyslides/Pointers": {},
-      "VisOnlyslides/Lists": {}
-    },
-    "Week 3, Day 2": {
-      "VisOnlyslides/Testing": {},      
-      "VisOnlyslides/StackQueue": {}
-    },
-    "Week 4, Day 1": {
+    "Binary Trees": {
       "VisOnlyslides/Binary": {},
-      "VisOnlyslides/Coding": {}
+      "VisOnlyslides/BT-preorder": {},
+      "VisOnlyslides/BT-postorder": {},
+      "VisOnlyslides/BT-inorder": {},
+      "VisOnlyslides/BT-recursion-example": {},
+      "VisOnlyslides/BST-findhelp": {},
+      "VisOnlyslides/BST-inserthelp": {},
+      "VisOnlyslides/BST-deletemax": {},
+      "VisOnlyslides/BST-removehelp": {},
+      "VisOnlyslides/BT-pointer-preorder": {}
     },
-    "Week 4, Day 2": {
-      "VisOnlyslides/BST": {}
+    "Heaps": {
+      "VisOnlyslides/Heap-insert": {},
+      "VisOnlyslides/Heap-building": {},
+      "VisOnlyslides/Heap-proof": {},
+      "VisOnlyslides/Heap-delete": {}
     },
-    "Week 5, Day 1": {
-      "VisOnlyslides/P2": {},
-      "VisOnlyslides/Binary3": {}
-    },
-    "Week 5, Day 2": {
-      "VisOnlyslides/Mid1": {},
-      "VisOnlyslides/Heaps": {},
-      "VisOnlyslides/Comparison": {}
-    },
-    "Week 6, Day 1": {
-      "VisOnlyslides/Midterm1": {}
-    },
-    "Week 6, Day 2": {
-      "VisOnlyslides/Huffman": {}
+
+    "Huffman Coding": {
+      "VisOnlyslides/Huffman-tree": {},
+      "VisOnlyslides/Huffman-assigning-codes": {},
+      "VisOnlyslides/Huffman-decoding": {},
+      "VisOnlyslides/Huffman-using-codes": {}
     },
     "Week 7, Day 1": {
       "VisOnlyslides/Trie": {},
