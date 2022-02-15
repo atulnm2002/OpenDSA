@@ -9,14 +9,6 @@
 .. slideconf::
    :autoslides: False
 
-.. slide:: BST ``findhelp``
-
-   .. inlineav:: BSTsearchCON ss
-      :links: AV/Binary/BSTCON.css
-      :scripts: AV/Binary/BSTsearchCON.js
-      :output: show
-
-
 .. slide:: BST ``inserthelp``
 
    .. inlineav:: BSTinsertCON ss
@@ -24,38 +16,3 @@
       :scripts: AV/Binary/BSTinsertCON.js
       :output: show
 
-
-.. slide:: BST ``deletemax``
-
-   .. inlineav:: BSTdeletemaxCON ss
-      :links: AV/Binary/BSTCON.css
-      :scripts: AV/Binary/BSTdeletemaxCON.js
-      :output: show
-
-
-.. slide:: BST ``removehelp``
-
-   .. inlineav:: BSTremoveCON ss
-      :links: AV/Binary/BSTCON.css
-      :scripts: AV/Binary/BSTremoveCON.js
-      :output: show
-
-
-.. slide:: .
-
-   .
-
-
-.. slide:: BST Analysis
-
-   Find: :math:`O(d)`
-
-   Insert: :math:`O(d)`
-
-   Delete: :math:`O(d)`
-
-   :math:`d =` depth of the tree
-
-   :math:`d` is :math:`O(\log n)` if the tree is balanced.
-
-   What is the worst case cost? When?

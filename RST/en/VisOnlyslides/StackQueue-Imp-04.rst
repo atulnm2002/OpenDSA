@@ -10,11 +10,10 @@
    :autoslides: False
 
 
-.. slide:: Queue Implementation Example 3
+.. slide:: Array Stack Top Position
 
-   .. inlineav:: aqueueBadCON ss
-      :long_name: Array-based Queue Bad Representation Slideshow
-      :links: AV/List/aqueueCON.css
-      :scripts: AV/List/aqueueBadCON.js
+   .. inlineav:: astackTopCON ss
+      :long_name: Array stack top position slideshow
+      :links: AV/List/astackCON.css
+      :scripts: AV/List/astackTopCON.js
       :output: show
-

@@ -9,12 +9,12 @@
 .. slideconf::
    :autoslides: False
 
-.. slide:: Preorder Traversal
+.. slide:: Postorder Traversal
 
    .. odsalink:: AV/Binary/BTCON.css
 
-   .. inlineav:: preorderCON ss
-      :long_name: Preorder Traversal Slideshow
+   .. inlineav:: postorderCON ss
+      :long_name: Postorder Traversal Slideshow
       :links: AV/Binary/BTCON.css
-      :scripts: AV/Binary/preorderCON.js
+      :scripts: AV/Binary/postorderCON.js
       :output: show

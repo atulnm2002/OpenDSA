@@ -10,10 +10,10 @@
    :autoslides: False
 
 
-.. slide:: Array Stack Top Position
+.. slide:: Array Stack Push
 
-   .. inlineav:: astackTopCON ss
-   :long_name: Array stack top position slideshow
-   :links: AV/List/astackCON.css
-   :scripts: AV/List/astackTopCON.js
-   :output: show
+   .. inlineav:: astackPushCON ss
+      :long_name: Array stack push slideshow
+      :links: AV/List/astackCON.css
+      :scripts: AV/List/astackPushCON.js
+      :output: show
