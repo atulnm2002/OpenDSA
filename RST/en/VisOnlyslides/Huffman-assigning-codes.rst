@@ -6,11 +6,8 @@
 .. avmetadata::
    :author: Cliff Shaffer
 
-.. odsalink:: DataStructures/huffman.css
-
 .. slideconf::
    :autoslides: False
-
 
 .. slide:: Assigning Codes
 
