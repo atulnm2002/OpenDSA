@@ -109,10 +109,18 @@
       "VisOnlyslides/Huffman-decoding": {},
       "VisOnlyslides/Huffman-using-codes": {}
     },
-    "Week 7, Day 1": {
-      "VisOnlyslides/Trie": {},
-      "VisOnlyslides/Overconstrained": {},
-      "VisOnlyslides/Sorting1": {}
+    "Sorting": {
+      "VisOnlyslides/Sorting_Bubble_01": {},
+      "VisOnlyslides/Sorting_Bubble_02": {},
+      "VisOnlyslides/Sorting_Bubble_Analysis": {},
+      "VisOnlyslides/Sorting_Selection_01": {},
+      "VisOnlyslides/Sorting_Selection_02": {},
+      "VisOnlyslides/Sorting_Selection_Analysis": {},
+      "VisOnlyslides/Sorting_Insert_01": {},
+      "VisOnlyslides/Sorting_Insert_Analysis_AvgCase": {},
+      "VisOnlyslides/Sorting_Insert_Analysis_BestCase": {},
+      "VisOnlyslides/Sorting_Insert_Analysis_WorstCase": {},
+      "VisOnlyslides/Sorting_Inversions_Analysis": {}
     },
     "Week 7, Day 2": {
       "VisOnlyslides/Sorting2": {}
