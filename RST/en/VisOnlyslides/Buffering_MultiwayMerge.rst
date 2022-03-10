@@ -9,9 +9,11 @@
 .. slideconf::
    :autoslides: False
 
-.. slide:: Multiway Merge
+==============
+Multiway Merge
+==============
 
-   * In practice, use only one file and seek to appropriate block.
+.. slide:: Multiway Merge
 
    .. inlineav:: extMultiMergeCON ss
       :long_name: Multiway Merge Example Slideshow
