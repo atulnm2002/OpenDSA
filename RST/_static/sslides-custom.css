@@ -1,0 +1,8 @@
+.slides > article {
+
+    padding: 20px 20px;
+    display: block;
+
+    width: auto;
+    height: auto;
+}

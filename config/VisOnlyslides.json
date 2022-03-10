@@ -3,6 +3,7 @@
   "desc": "Vis Only Slides",
   "build_dir": "Books",
   "code_dir": "SourceCode/",
+  "html_css_files": ["_static/sslides-custom.css"],
   "lang": "en",
   "code_lang": {
     "Java": {
@@ -31,33 +32,7 @@
   "tabbed_codeinc": false,
   "build_JSAV": false,
   "suppress_todo": true,
-  "glob_exer_options": {},
-  "glob_ss_options": {
-    "threshold": 1.0, 
-    "points": 0.0, 
-    "required": false
-  }, 
-  "glob_ff_options": {
-    "threshold": 1.0, 
-    "points": 0.0, 
-    "required": false
-  },
-  "glob_ka_options": {
-    "threshold": 5, 
-    "points": 1.0, 
-    "required": true
-  }, 
-  "glob_extr_options": {
-    "code-workout": {
-      "points": 2.0
-    }, 
-    "points": 1.0
-  }, 
-  "glob_pe_options": {
-    "threshold": 0.9, 
-    "points": 2.0, 
-    "required": true
-  }, 
+
   "chapters": {
     "Algorithm Analysis": {
       "VisOnlyslides/AlgAnal": {}
@@ -85,7 +60,6 @@
       "VisOnlyslides/StackQueue-Circ-02": {}
     },
     "Binary Trees": {
-      "VisOnlyslides/Binary": {},
       "VisOnlyslides/BT-preorder": {},
       "VisOnlyslides/BT-postorder": {},
       "VisOnlyslides/BT-inorder": {},
@@ -110,6 +84,7 @@
       "VisOnlyslides/Huffman-using-codes": {}
     },
     "Sorting": {
+      "VisOnlyslides/Sorting_Binsort": {},
       "VisOnlyslides/Sorting_Bubble_01": {},
       "VisOnlyslides/Sorting_Bubble_02": {},
       "VisOnlyslides/Sorting_Bubble_Analysis": {},
@@ -120,22 +95,58 @@
       "VisOnlyslides/Sorting_Insert_Analysis_AvgCase": {},
       "VisOnlyslides/Sorting_Insert_Analysis_BestCase": {},
       "VisOnlyslides/Sorting_Insert_Analysis_WorstCase": {},
-      "VisOnlyslides/Sorting_Inversions_Analysis": {}
+      "VisOnlyslides/Sorting_Inversions_Analysis": {},
+      "VisOnlyslides/Sorting_Heapsort_Analysis": {},
+      "VisOnlyslides/Sorting_Lower_Bound_Analysis": {},
+      "VisOnlyslides/Sorting_Heapsort_vis": {},
+      "VisOnlyslides/Sorting_Mergesort_vis": {},
+      "VisOnlyslides/Sorting_Quicksort_partition": {},
+      "VisOnlyslides/Sorting_Quicksort_vis": {},
+      "VisOnlyslides/Sorting_Radix_LList": {},
+      "VisOnlyslides/Sorting_Radix_ArrayList": {},
+      "VisOnlyslides/Sorting_Radix_Analysis": {},
+      "VisOnlyslides/Sorting_Shellsort_vis": {}
     },
-    "Week 7, Day 2": {
-      "VisOnlyslides/Sorting2": {}
-    },
-        "Week 8, Day 1": {
+    "Week 8, Day 1": {
       "VisOnlyslides/Sorting3": {}
     },
     "Week 8, Day 2": {
       "VisOnlyslides/FileProc": {}
     },
-    "Week 9, Day 1": {
-      "VisOnlyslides/Buffering": {}
+    "Buffer Pools and External Sorting": {
+      "VisOnlyslides/Buffering_Buffer_Pool_Intro": {},
+      "VisOnlyslides/Buffering_Buffer_Pool_LRU": {},
+      "VisOnlyslides/Buffering_Buffer_Pool_DirtyBit": {},
+      "VisOnlyslides/Buffering_ExtMergeSort": {},
+      "VisOnlyslides/Buffering_ExtMergeSort_Example": {},
+      "VisOnlyslides/Buffering_MultiwayMerge": {},
+      "VisOnlyslides/Buffering_RepSelect": {}
+
     },
-    "Week 9.2, Week 10.1": {
-      "VisOnlyslides/Hashing": {}
+    "Hashing": {
+      "VisOnlyslides/Hashing_Binning": {},
+      "VisOnlyslides/Hashing_Bucket_01": {},
+      "VisOnlyslides/Hashing_Bucket_02": {},
+      "VisOnlyslides/Hashing_Char_Adding": {},
+      "VisOnlyslides/Hashing_Collisions": {},
+      "VisOnlyslides/Hashing_Delete_Tombstones": {},
+      "VisOnlyslides/Hashing_Double_Hash_01": {},
+      "VisOnlyslides/Hashing_Double_Hash_02": {},
+      "VisOnlyslides/Hashing_Intro_Example": {},
+      "VisOnlyslides/Hashing_Linear_Probe": {},
+      "VisOnlyslides/Hashing_Linear_Probe_By_Steps_01": {},
+      "VisOnlyslides/Hashing_Linear_Probe_By_Steps_02": {},
+      "VisOnlyslides/Hashing_Linear_Probe_Problem": {},
+      "VisOnlyslides/Hashing_Mid_Square": {},
+      "VisOnlyslides/Hashing_Pseudorandom_Probe_01": {},
+      "VisOnlyslides/Hashing_Pseudorandom_Probe_02": {},
+      "VisOnlyslides/Hashing_Quadratic_Probing_01": {},
+      "VisOnlyslides/Hashing_Quadratic_Probing_02": {},
+      "VisOnlyslides/Hashing_Simple_Mod_Function": {},
+      "VisOnlyslides/Hashing_String_Folding": {}
+
+
+
     },
     "Week 10.2, Week 11.1": {
       "VisOnlyslides/Indexing": {},
