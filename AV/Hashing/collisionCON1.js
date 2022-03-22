@@ -50,7 +50,7 @@ var setBlue = function (arr, index) {
   arr.highlight(9);
   av.step();
 
-  av.umsg("... and finally slot 1.");
+  av.umsg("... and finally slot 1. This effectively splits the key range, and the hash table, into two halves. This leads to reduced performance.");
   arr.highlight(1);
   av.recorded();
 });

@@ -9,7 +9,7 @@
 .. slideconf::
    :autoslides: False
 
-.. slide:: Linear Probing by Steps (2)
+.. slide:: Linear Probing by Steps
 
    .. inlineav:: collisionCON2 ss
       :long_name: Linear Probing By Steps Slideshow 2

@@ -12,4 +12,7 @@
 
 .. slide:: Strings Function: Character Adding
 
+   .. codeinclude:: Hashing/Hash
+      :tag: sascii
+
    .. avembed:: AV/Hashing/StringSimple.html pe

@@ -9,7 +9,7 @@
 .. slideconf::
    :autoslides: False
 
-.. slide:: Linear Probing by StepsHashing_Linear_Probe_By_Steps_01.rst
+.. slide:: Linear Probing by Steps
 
    .. inlineav:: collisionCON1 ss
       :long_name: Linear Probing By Steps Slideshow 1

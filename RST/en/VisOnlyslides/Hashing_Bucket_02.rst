@@ -9,7 +9,7 @@
 .. slideconf::
    :autoslides: False
 
-.. slide:: Bucket Hashing
+.. slide:: Alternate Bucket Hashing
 
    .. inlineav:: buckethashCON2 ss
       :long_name: Bucket Hashing Slideshow 2
