@@ -148,17 +148,9 @@
 
 
     },
-    "Week 10.2, Week 11.1": {
-      "VisOnlyslides/Indexing": {},
-      "VisOnlyslides/TTTree": {},
-      "VisOnlyslides/BTree": {}
-    },
-    "Week 11.2": {
-      "VisOnlyslides/Mid2": {},
-      "VisOnlyslides/SkipList": {}
-    },
-    "Week 13": {
-      "VisOnlyslides/Graphs": {}
+    "Memory Management": {
+      "VisOnlyslides/MemManage_FirstFit": {},
+      "VisOnlyslides/MemManage_BuddyMethod": {}
     }
   }
 }
