@@ -107,8 +107,20 @@
       "VisOnlyslides/Sorting_Radix_Analysis": {},
       "VisOnlyslides/Sorting_Shellsort_vis": {}
     },
-    "Week 8, Day 1": {
-      "VisOnlyslides/Sorting3": {}
+    "Indexing": {
+      "VisOnlyslides/Indexing_Simple_Linear": {},
+      "VisOnlyslides/Indexing_Linear_SecLevel": {},
+      "VisOnlyslides/Indexing_Tree": {},
+      "VisOnlyslides/Indexing_Tree_DiskAccess": {},
+      "VisOnlyslides/indexing_23Tree_Insert": {},
+      "VisOnlyslides/indexing_23Tree_Insert_Node_Split": {},
+      "VisOnlyslides/Indexing_23PlusTree_Build": {},
+      "VisOnlyslides/Indexing_23PlusTree_Search": {},
+      "VisOnlyslides/Indexing_23PlusTree_Delete": {},
+      "VisOnlyslides/Indexing_BplusTree_Search": {},
+      "VisOnlyslides/Indexing_BplusTree_Insert": {},
+      "VisOnlyslides/Indexing_BplusTree_Delete": {},
+      "VisOnlyslides/Indexing_BplusTree_Insert_Degree5": {}
     },
     "Week 8, Day 2": {
       "VisOnlyslides/FileProc": {}
