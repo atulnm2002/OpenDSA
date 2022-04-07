@@ -123,9 +123,7 @@
       "VisOnlyslides/Indexing_BplusTree_Delete": {},
       "VisOnlyslides/Indexing_BplusTree_Insert_Degree5": {}
     },
-    "Week 8, Day 2": {
-      "VisOnlyslides/FileProc": {}
-    },
+    
     "Buffer Pools and External Sorting": {
       "VisOnlyslides/Buffering_Buffer_Pool_Intro": {},
       "VisOnlyslides/Buffering_Buffer_Pool_LRU": {},
@@ -158,12 +156,14 @@
       "VisOnlyslides/Hashing_Simple_Mod_Function": {},
       "VisOnlyslides/Hashing_String_Folding": {}
 
-
-
     },
     "Memory Management": {
       "VisOnlyslides/MemManage_FirstFit": {},
       "VisOnlyslides/MemManage_BuddyMethod": {}
+    },
+    "SkipLists": {
+      "VisOnlyslides/SkipList_Intro": {},
+      "VisOnlyslides/SkipList_Insert": {}
     }
   }
 }
