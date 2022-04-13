@@ -164,6 +164,17 @@
     "SkipLists": {
       "VisOnlyslides/SkipList_Intro": {},
       "VisOnlyslides/SkipList_Insert": {}
+    },
+    
+    "Graphs": {
+      "VisOnlyslides/Graphs_BFS": {},
+      "VisOnlyslides/Graphs_DFS": {},
+      "VisOnlyslides/Graphs_Dijkstra": {},
+      "VisOnlyslides/Graphs_MST_Kruskal": {},
+      "VisOnlyslides/Graphs_MST_Prim": {},
+      "VisOnlyslides/Graphs_TopSort_BFS": {},
+      "VisOnlyslides/Graphs_TopSort_DFS": {}
+      
     }
   }
 }
